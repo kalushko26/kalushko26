@@ -10,14 +10,12 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-cards
-    permissions:
-      contents: write
+    name: generate
       
     steps:
       - uses: actions/checkout@v2
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.SUMMARY_CARD_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_CARDS_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
