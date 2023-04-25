@@ -126,7 +126,12 @@
     />
   </a>
 </div>
-  <a href="#">
+</br>
+</br>
+
+### My openSource library for a web developer
+<div>
+   <a href="https://github.com/kalushko26/Obsidian">
     <img
       align="left"
       width="40"
@@ -140,8 +145,6 @@
 </div>
 </br>
 </br>
-
-### My openSource library for a web developer
 
 ## :fire: My Stats :
 
