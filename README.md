@@ -126,9 +126,22 @@
     />
   </a>
 </div>
+  <a href="#">
+    <img
+      align="left"
+      width="40"
+      height="40"
+      style="padding-right:20px"
+      title="Obsidian"
+      alt="Obsidian"
+      src="https://github.com/kalushko26/kalushko26/blob/master/img/obsidian/obsidian.svg"
+    />
+  </a>
+</div>
+</br>
+</br>
 
-</br>
-</br>
+### My openSource library for a web developer
 
 ## :fire: My Stats :
 
