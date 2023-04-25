@@ -132,28 +132,14 @@
 
 ## :fire: My Stats :
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalushko26&theme=vue)
+[![](https://raw.githubusercontent.com/kalushko26/kalushko26/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/kalushko26/kalushko26)
 </br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kalushko26&theme=vue&exclude={exclude})
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kalushko26&theme=vue&exclude={exclude})
-</br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kalushko26&theme=vue)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kalushko26&theme=vue&utcOffset={utcOffset})
+[![](https://raw.githubusercontent.com/kalushko26/kalushko26/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/kalushko26/kalushko26)
+ [![](https://raw.githubusercontent.com/kalushko26/kalushko26/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/kalushko26/kalushko26)
 </br>
 [![](https://raw.githubusercontent.com/kalushko26/kalushko26/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/kalushko26/kalushko26) 
 [![](https://raw.githubusercontent.com/kalushko26/kalushko26/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/kalushko26/kalushko26)
 </br>
-<!-- [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
- -->
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kalushko26&theme=ambient-gradient&hide_border=true)](https://git.io/streak-stats)
-</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalushko26&layout=compact&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
-</br>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalushko26t&theme=solarized_dark)
 
 ## Connect with me:
 
