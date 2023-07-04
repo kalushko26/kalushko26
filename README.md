@@ -151,23 +151,6 @@
 </br>
 </br>
 
-### My openSource library for a web developer
-<div>
-   <a href="https://github.com/kalushko26/Obsidian">
-    <img
-      align="left"
-      width="40"
-      height="40"
-      style="padding-right:20px"
-      title="Obsidian"
-      alt="Obsidian"
-      src="https://github.com/kalushko26/kalushko26/blob/master/img/obsidian/obsidian.svg"
-    />
-  </a>
-</div>
-</br>
-</br>
-
 ## Connect with me:
 
 [<img align="left" alt="kalushko26 | LinkedIn" width="36px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" />][linkedin]
