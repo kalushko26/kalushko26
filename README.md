@@ -168,17 +168,6 @@
 </br>
 </br>
 
-## :fire: My Stats :
-
-[![](https://raw.githubusercontent.com/kalushko26/kalushko26/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/kalushko26/kalushko26)
-</br>
-[![](https://raw.githubusercontent.com/kalushko26/kalushko26/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/kalushko26/kalushko26)
- [![](https://raw.githubusercontent.com/kalushko26/kalushko26/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/kalushko26/kalushko26)
-</br>
-[![](https://raw.githubusercontent.com/kalushko26/kalushko26/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/kalushko26/kalushko26) 
-[![](https://raw.githubusercontent.com/kalushko26/kalushko26/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/kalushko26/kalushko26)
-</br>
-
 ## Connect with me:
 
 [<img align="left" alt="kalushko26 | LinkedIn" width="36px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" />][linkedin]
