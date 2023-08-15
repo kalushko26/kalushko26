@@ -151,7 +151,7 @@
 </br>
 </br>
 
-## Connect with me:
+<div>Connect with me:</div>
 
 [<img align="left" alt="kalushko26 | LinkedIn" width="36px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" />][linkedin]
 [<img align="left" alt="kalushko26 | VK" width="36px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/VK.svg" />][vk]
