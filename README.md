@@ -48,28 +48,6 @@
       src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"
     />
   </a>
-    <a href="#">
-    <img
-      align="left"
-      width="40"
-      height="40"
-      style="padding-right:20px"
-      title="Bootstrap 5"
-      alt="Bootstrap 5"
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"
-    />
-  </a>
-       <a href="#">
-    <img
-      align="left"
-      width="40"
-      height="40"
-      style="padding-right:20px"
-      title="SASS"
-      alt="SASS"
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"
-    />
-  </a>
    <a href="#">
     <img
       align="left"
@@ -122,7 +100,7 @@
       style="padding-right:20px"
       title="Node.js"
       alt="node.js"
-      src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"
     />
   </a>
   <a href="#">
@@ -154,13 +132,9 @@
 <h3>Connect with me:</h3>
 
 [<img align="left" alt="kalushko26 | LinkedIn" width="36px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" />][linkedin]
-[<img align="left" alt="kalushko26 | VK" width="36px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/VK.svg" />][vk]
 [<img align="left" alt="kalushko26 | Telegram" width="36px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Telegram.svg" />][telegram]
-[<img align="left" alt="kalushko26 | Instagram" width="36px" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Instagram.svg" />][instagram]
 <br />
 
 [linkedin]: https://www.linkedin.com/in/kalushko26/
-[vk]: https://vk.com/kalushko_26
-[telegram]: https://t.me/kalushko26
-[instagram]: https://www.instagram.com/kalushko_26/
+[telegram]: https://t.me/vakalushko
 
