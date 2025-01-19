@@ -78,7 +78,7 @@
       style="padding-right:20px"
       title="React"
       alt="React"
-      src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
+      src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
     />
   </a>
    <a href="#">
