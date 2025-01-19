@@ -81,6 +81,17 @@
       src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
     />
   </a>
+   <a href="#">
+    <img
+      align="left"
+      width="40"
+      height="40"
+      style="padding-right:20px"
+      title="next.js"
+      alt="next.js"
+      src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg"
+    />
+  </a>
   <a href="#">
     <img
       align="left"
